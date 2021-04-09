@@ -3,7 +3,7 @@
 
 using namespace std;
 
-const int RANGE = 8;
+const int RANGE = 9;
 
 int main()
 {
